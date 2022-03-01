@@ -1,0 +1,12 @@
+
+
+#ignore pycache
+__pycache__/
+
+
+
+
+# ingore viretual environement and settings files
+ctrlIntell_project/settings.py
+env/
+myenv/
