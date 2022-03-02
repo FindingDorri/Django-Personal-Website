@@ -28,6 +28,7 @@ After your virtual environment has been created, run this command:
 .\env\Scripts\activate
 ```
 
+
 As long as your virtual environment is activated, pip will install packages into that specific environment 
 
 ## Required Module
@@ -78,4 +79,20 @@ Now open up your web browser and go to the address
 ```
 localhost:8000
 ```
+
+## Django Framework Layout
+<br />
+
+![testimage](https://miro.medium.com/max/1400/1*bmpNidybiuF22EOg71wvPw.png)
+
+
+
+
+
+
+
+
+
+
+
 
