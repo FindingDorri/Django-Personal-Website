@@ -99,7 +99,8 @@ To create the project Rune:
 ```
 django-admin startproject first_project
 ```
-You will then get something that looks like this:
+You will then get something that looks like this:<br>
+
 ![project_files_pict](example_picture/projectfiles.png)
 
 ### **\_\_init\_\_.py**
