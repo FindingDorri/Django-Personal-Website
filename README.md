@@ -89,6 +89,8 @@ A Django Application is created to perform a particular functionality for your e
 
 These Django Apps can then be plugged into other Django Projects, so you can reuse them!
 
+![testimage](example_picture/djangoframework.png)
+
 ## Django Project
 
 When you install Django, it actually also installed a command line tool called:
@@ -153,9 +155,9 @@ After creating the application, you need to tell django that our application act
 
 Refer to INSTALLEDAPPS in settings.py and add you application
 
-![testimage](example_picture/djangoframework.png)
 
-
+## URL Mappings
+1. Direct mapping from views.py to urls.py
 
 
 
